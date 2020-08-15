@@ -8,3 +8,5 @@ Run on Google Colab GPU
   
 ## Results before running out of GPU Runtime
 ![Results](https://github.com/vinhle169/image_generator/blob/master/results.png?raw=true)
+  
+### For more check out the ipynb file!
